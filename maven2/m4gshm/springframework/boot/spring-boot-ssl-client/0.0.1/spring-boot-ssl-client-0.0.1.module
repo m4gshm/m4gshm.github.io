@@ -1,0 +1,101 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "m4gshm.springframework.boot",
+    "module": "spring-boot-ssl-client",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "747ssgbgvbhftasokvny3xjbvq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 9,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "spring-boot-ssl-client-0.0.1.jar",
+          "url": "spring-boot-ssl-client-0.0.1.jar",
+          "size": 23014,
+          "sha512": "d6750dd509c4c518898029f7dfb253e3ba3b2d01e8f880f246572e094b1465cd212dec62d5633065853ae5e75fd5264bec8a7807df47227a83b0fcdeb549eb2c",
+          "sha256": "841489fdcd255d68ae34fbad4f54bf41ee479c3804ae811b397042d8a6387eee",
+          "sha1": "249676ebfa86a3fc5f4158304baba73b671e96d9",
+          "md5": "49dee136e487566821cc05aedcd48a7f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 9,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "spring-boot-ssl-client-0.0.1.jar",
+          "url": "spring-boot-ssl-client-0.0.1.jar",
+          "size": 23014,
+          "sha512": "d6750dd509c4c518898029f7dfb253e3ba3b2d01e8f880f246572e094b1465cd212dec62d5633065853ae5e75fd5264bec8a7807df47227a83b0fcdeb549eb2c",
+          "sha256": "841489fdcd255d68ae34fbad4f54bf41ee479c3804ae811b397042d8a6387eee",
+          "sha1": "249676ebfa86a3fc5f4158304baba73b671e96d9",
+          "md5": "49dee136e487566821cc05aedcd48a7f"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "spring-boot-ssl-client-0.0.1-javadoc.jar",
+          "url": "spring-boot-ssl-client-0.0.1-javadoc.jar",
+          "size": 468207,
+          "sha512": "2247196bf9da834dc2c504cbab437e9058118f072ead9a4aedb53493ab72d89d897e66e7020b150c375f2422f9e667d890a1e442a0b5960124156ade61a5bc6a",
+          "sha256": "04521189a993c800e706d7d85796a53321cbf4cd289985fb64cde05179d78429",
+          "sha1": "62835dabac3ded089e14e499a3641c21a6b7beaa",
+          "md5": "02e2f9daefce091abadad3a31d2c444c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "spring-boot-ssl-client-0.0.1-sources.jar",
+          "url": "spring-boot-ssl-client-0.0.1-sources.jar",
+          "size": 12694,
+          "sha512": "fc5c487a6b550b832655b5acc7220b9eb78358ab9c23b75f0c1d3ad36214e6b45b80acc70835ac59b799730a26db592c601c1d9224dff73764742c2e949e78d7",
+          "sha256": "cbb44f0a5b494b31b01ca7d756a3649f93f033c3efa86e0ab33e01c24b6c053d",
+          "sha1": "4d6ef0d847b49c2c011f5df662cc1fe35e487e76",
+          "md5": "a12fc39d6c3b92327448cf25ee41a163"
+        }
+      ]
+    }
+  ]
+}
