@@ -3,11 +3,10 @@
   <groupId>m4gshm.springframework.boot</groupId>
   <artifactId>spring-boot-ssl-client</artifactId>
   <versioning>
-    <latest>0.0.1</latest>
-    <release>0.0.1</release>
+    <latest>0.0.1.SNAPSHOT</latest>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.1.SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210421201228</lastUpdated>
+    <lastUpdated>20210423181337</lastUpdated>
   </versioning>
 </metadata>
