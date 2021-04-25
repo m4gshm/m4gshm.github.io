@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>m4gshm.springframework.boot</groupId>
-  <artifactId>spring-boot-ssl-client</artifactId>
+  <groupId>m4gshm.java.timeout</groupId>
+  <artifactId>java.timeout</artifactId>
   <versioning>
     <latest>0.0.1-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210425210708</lastUpdated>
+    <lastUpdated>20210425212157</lastUpdated>
   </versioning>
 </metadata>

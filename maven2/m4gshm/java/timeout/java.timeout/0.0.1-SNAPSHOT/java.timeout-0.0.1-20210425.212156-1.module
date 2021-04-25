@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "m4gshm.java.timeout",
+    "module": "java.timeout",
+    "version": "0.0.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "java.timeout-0.0.1-SNAPSHOT.jar",
+          "url": "java.timeout-0.0.1-SNAPSHOT.jar",
+          "size": 39799,
+          "sha512": "3199e056638391a2eab63d12055d5a4a6e1560e302daf0b095c33cf2f8b3db8d833bb82b04ac670138a9b946d811ad895acbb9c9dfa62170488e224d3b7d1cab",
+          "sha256": "5aedf723fc59a6f86880d18e6fda75d52d257868efd5d6eddd69161bdf45c1f2",
+          "sha1": "60790241472ad7e18bf710c217817cdf4e233a13",
+          "md5": "17951614ebf88c5bfcd1b5a4e0142c29"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "java.timeout-0.0.1-SNAPSHOT.jar",
+          "url": "java.timeout-0.0.1-SNAPSHOT.jar",
+          "size": 39799,
+          "sha512": "3199e056638391a2eab63d12055d5a4a6e1560e302daf0b095c33cf2f8b3db8d833bb82b04ac670138a9b946d811ad895acbb9c9dfa62170488e224d3b7d1cab",
+          "sha256": "5aedf723fc59a6f86880d18e6fda75d52d257868efd5d6eddd69161bdf45c1f2",
+          "sha1": "60790241472ad7e18bf710c217817cdf4e233a13",
+          "md5": "17951614ebf88c5bfcd1b5a4e0142c29"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "java.timeout-0.0.1-SNAPSHOT-sources.jar",
+          "url": "java.timeout-0.0.1-SNAPSHOT-sources.jar",
+          "size": 16166,
+          "sha512": "8ccaae4c0ab89be5bc86408d1685f9ec5d809c76814a289dfa1d08413c2427c30d4c3eabec016ee52818b36f9d8ab4b7173f4b782f03e820d28fcabcd07f4288",
+          "sha256": "6c5671bf9904a121055f1cdfe0bb7cf75c39024b64f9cc0f109c66fb23cb549a",
+          "sha1": "787fc1d9f46bf47790b4641fe983b9b582cf7a19",
+          "md5": "c0b673b02a1635b9af6084bda68af8b3"
+        }
+      ]
+    }
+  ]
+}
