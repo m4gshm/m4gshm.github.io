@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>m4gshm.java.timeout</groupId>
+  <groupId>m4gshm</groupId>
   <artifactId>java.timeout</artifactId>
   <versioning>
     <latest>0.0.1-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210425212157</lastUpdated>
+    <lastUpdated>20210425213608</lastUpdated>
   </versioning>
 </metadata>

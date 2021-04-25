@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "m4gshm.java.timeout",
+    "group": "m4gshm",
     "module": "java.timeout",
     "version": "0.0.1-SNAPSHOT",
     "attributes": {

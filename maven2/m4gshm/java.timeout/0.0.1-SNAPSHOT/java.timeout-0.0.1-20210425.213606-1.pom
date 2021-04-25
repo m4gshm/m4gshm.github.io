@@ -6,7 +6,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>m4gshm.java.timeout</groupId>
+  <groupId>m4gshm</groupId>
   <artifactId>java.timeout</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <developers>
