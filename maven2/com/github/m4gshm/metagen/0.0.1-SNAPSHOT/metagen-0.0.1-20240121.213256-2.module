@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.m4gshm",
+    "module": "metagen",
+    "version": "0.0.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "metagen-0.0.1-SNAPSHOT.jar",
+          "url": "metagen-0.0.1-SNAPSHOT.jar",
+          "size": 87305,
+          "sha512": "370a43767231fb083352a0ca94db95b44438a1f03ed2fc9eb9c074235a3044e6823614cf2d8ac0c80f766e255cad3edb553a1b1ce83e5aeea46d5613142df4cd",
+          "sha256": "e910dc94da204d3baef89380be64da4d76488a1811c5dfbfb08f4ee95492189c",
+          "sha1": "434627a877541de045c0121e46eca42d62e16d56",
+          "md5": "3d132b715241d0550768b71bbda1a75c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.github.jbock-java",
+          "module": "javapoet",
+          "version": {
+            "requires": "1.15"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "metagen-0.0.1-SNAPSHOT.jar",
+          "url": "metagen-0.0.1-SNAPSHOT.jar",
+          "size": 87305,
+          "sha512": "370a43767231fb083352a0ca94db95b44438a1f03ed2fc9eb9c074235a3044e6823614cf2d8ac0c80f766e255cad3edb553a1b1ce83e5aeea46d5613142df4cd",
+          "sha256": "e910dc94da204d3baef89380be64da4d76488a1811c5dfbfb08f4ee95492189c",
+          "sha1": "434627a877541de045c0121e46eca42d62e16d56",
+          "md5": "3d132b715241d0550768b71bbda1a75c"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "metagen-0.0.1-SNAPSHOT-sources.jar",
+          "url": "metagen-0.0.1-SNAPSHOT-sources.jar",
+          "size": 25760,
+          "sha512": "6b4b91e44c5e4a14c2e0a201aa89f164537b75185ef922022de8362379bb4970dbb7542dad7133fde8d1befc4d0f26b01d9b5d28534e4094add105518a01bcb5",
+          "sha256": "e50835b6f31146a57bc617156f4ca83efb861074167bbbace96343c68175093a",
+          "sha1": "c95811bc0a1fa53becb05a5adff48604f60d1634",
+          "md5": "789904eb77fe2805ebd3c4d0ca6b781c"
+        }
+      ]
+    }
+  ]
+}
